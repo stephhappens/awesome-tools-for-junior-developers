@@ -124,8 +124,9 @@
 - [Waypoints](http://imakewebthings.com/waypoints/) - Trigger a function when you scroll to an element
 
 ### PHP
-
-- [Carbon](https://github.com/briannesbitt/Carbon) - API extension for DateTime
+- [Composer](https://getcomposer.org) - PHP Package Manager
+- [PHPUnit](http://phpunit.de) - Defacto unit test suite for PHP
+- [Chronos](https://github.com/cakephp/chronos) - Maintained fork of Carbon
 - [Element API](https://github.com/craftcms/element-api/tree/v1) - JSON API for your entries (and other element types)
 - [OAuth 2.0 Server](https://oauth2.thephpleague.com/) - Makes implementing a standards compliant OAuth 2.0 server trivial
 
