@@ -69,34 +69,34 @@
 - Refactoring - Martin Fowler
 - Zero Bugs and Program Faster - Kate Thompson
 - The Mythical Man Month - Fred Brooks
-- [Pragmatic Programmer](https://drive.google.com/drive/u/1/folders/0B6PIAAiJJ8YzVng1cGNCNE9TTkU)- Andy Hunt and Dave Thomas
+- [Pragmatic Programmer]- Andy Hunt and Dave Thomas
 - Extreme Programming Explained - Kent Beck
 - Introduction to Algorithms - Thomas H Cormen
 - Clean Code: A Handbook of Agile Software Craftsmanship - Robert C Martin
 - Cracking the Coding Interview - Gayle Laakmann
-- [Bash Cookbook](https://drive.google.com/drive/u/1/folders/0B2phhwvPw_77ZkpCSl9wLUVudms)
-- [Bash Pocket Reference](https://drive.google.com/drive/u/1/folders/0B2phhwvPw_77ZkpCSl9wLUVudms)
+- [Bash Cookbook]
+- [Bash Pocket Reference]
 
 
 ### Javascript
 - JavaScript: The Good Parts - Douglas Crockford
-- [Learning JavaScript Design Patterns](https://drive.google.com/drive/u/1/folders/0B6PIAAiJJ8YzR1lYWWwyMjNxZFU) - Addy Osmani
+- [Learning JavaScript Design Patterns]- Addy Osmani
 - Programming JavaScript Applications - Eric Elliott
-- [If Hemingway wrote Javascript](https://drive.google.com/drive/u/1/folders/0B2phhwvPw_77ZkpCSl9wLUVudms) - Angus Croll
+- [If Hemingway wrote Javascript] - Angus Croll
 - Up and Going Javascript - Kyle Simpson
-- [Principles of Object-Oriented Javascript](https://drive.google.com/drive/u/1/folders/0B2phhwvPw_77ZkpCSl9wLUVudms)- Nicolas Zakas
+- [Principles of Object-Oriented Javascript]- Nicolas Zakas
 - [Eloquent Javascript](http://eloquentjavascript.net/)-Marijn Haverbeke
 
 ### Object Oriented Design
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)- aka the "Gang Of Four" book, or GOF
 - Practical Object-Oriented Design in Ruby - Sandi Metz
 - Growing Object-Oriented Software Guided by Tests - Steve Freeman and Nat Pryce
-- [Design Patterns Explained Simply](https://drive.google.com/drive/u/1/folders/0B6PIAAiJJ8YzR1lYWWwyMjNxZFU) - Alexander Shvets
+- [Design Patterns Explained Simply]- Alexander Shvets
 
 ### UX/Design
 - Don't Make Me Think - Steve Krug
 - Lessons in Typography - Jim Krause
-- [User Experience Revolution](https://drive.google.com/drive/u/1/folders/0B6PIAAiJJ8YzR1lYWWwyMjNxZFU)
+- [User Experience Revolution]
 
 ---
 
