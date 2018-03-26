@@ -180,7 +180,7 @@ and people learning to code.
 - [@iamdeveloper](https://twitter.com/iamdevloper)- Humor account about life as a developer
 - [@aneventapart](https://twitter.com/aneventapart)
 - [@chromedevelopers](https://twitter.com/ChromiumDev)- Account for Chrome Developers
-- [@](https://twitter.com/ChromeDevTools)- Twitter account for Chrome Dev Tools. They frequently release videos with debugging tips and updates on the new releases.
+- [@chromedevtools](https://twitter.com/ChromeDevTools)- Twitter account for Chrome Dev Tools. They frequently release videos with debugging tips and updates on the new releases.
 ___
 
 ### Reddit
