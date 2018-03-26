@@ -146,6 +146,9 @@ and people learning to code.
 - [JavaScript Jabber](https://devchat.tv/js-jabber)- A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Syntax](https://syntax.fm)- A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
 
+### Python
+- [Digital Ocean- How to Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)- A free e-book created for beginners learning to code in Python.
+
 ---
 
 ## Popular Tools 
