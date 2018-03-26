@@ -193,7 +193,3 @@ ___
 - [/r/userexperience](https://www.reddit.com/r/userexperience)- User experience design subreddit
 
 ---
-
-## Wee
-- [Awesome Vue](https://github.com/vuejs/awesome-vue)- A curated list of awesome things related to Vue.js.
-- [Airbnb JS Style Guide](https://github.com/airbnb/javascript)- A mostly reasonable approach to JavaScript.
