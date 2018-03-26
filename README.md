@@ -26,7 +26,7 @@
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015)- Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989)- Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/)-Advanced JS tutorial
-- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)
+- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- An online course to help bring CS into Highschools. 
 
 ---
 
@@ -66,17 +66,14 @@
 - Computer Science Distilled - Wladston Ferriera 
 
 ### General
-- Refactoring - Martin Fowler
-- Zero Bugs and Program Faster - Kate Thompson
-- The Mythical Man Month - Fred Brooks
+- Refactoring- Martin Fowler
+- Zero Bugs and Program Faster- Kate Thompson
+- The Mythical Man Month- Fred Brooks
 - [Pragmatic Programmer]- Andy Hunt and Dave Thomas
-- Extreme Programming Explained - Kent Beck
-- Introduction to Algorithms - Thomas H Cormen
-- Clean Code: A Handbook of Agile Software Craftsmanship - Robert C Martin
-- Cracking the Coding Interview - Gayle Laakmann
-- [Bash Cookbook]
-- [Bash Pocket Reference]
-
+- Extreme Programming Explained- Kent Beck
+- Introduction to Algorithms- Thomas H Cormen
+- Clean Code: A Handbook of Agile Software Craftsmanship- Robert C Martin
+- Cracking the Coding Interview- Gayle Laakmann
 
 ### Javascript
 - JavaScript: The Good Parts - Douglas Crockford
@@ -88,15 +85,15 @@
 - [Eloquent Javascript](http://eloquentjavascript.net/)-Marijn Haverbeke
 
 ### Object Oriented Design
-- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)- aka the "Gang Of Four" book, or GOF
-- Practical Object-Oriented Design in Ruby - Sandi Metz
-- Growing Object-Oriented Software Guided by Tests - Steve Freeman and Nat Pryce
+- [Design Patterns: Elements of Reusable Object-Oriented Software])- aka the "Gang Of Four" book, or GOF
+- Practical Object-Oriented Design in Ruby- Sandi Metz
+- Growing Object-Oriented Software Guided by Tests- Steve Freeman and Nat Pryce
 - [Design Patterns Explained Simply]- Alexander Shvets
 
 ### UX/Design
-- Don't Make Me Think - Steve Krug
-- Lessons in Typography - Jim Krause
-- [User Experience Revolution]
+- Don't Make Me Think- Steve Krug
+- Lessons in Typography- Jim Krause
+- User Experience Revolution- Paul Boag
 
 ---
 
