@@ -162,6 +162,7 @@ and people learning to code.
 - [Helium](https://github.com/geuis/helium-css)- Javascript tool to scan your site and show unused CSS
 - [TinyPNG](https://tinypng.com/)- Advanced lossy compression for PNG images
 - [JS Object Explorer](https://sdras.github.io/object-explorer/)- A tool to help you find the object method you need without digging through the docs
+- [Keycode Info](http://keycode.info/)- A good reference app built by Wes Bos to tell you what keystroke number you need
 
 ---
 
