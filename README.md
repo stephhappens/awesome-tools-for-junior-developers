@@ -74,21 +74,25 @@
 - Introduction to Algorithms- Thomas H Cormen
 - Clean Code: A Handbook of Agile Software Craftsmanship- Robert C Martin
 - Cracking the Coding Interview- Gayle Laakmann
+- 2018 Front-End Developer Handbook(https://frontendmasters.com/books/front-end-handbook/2018/)- Cody Lindley
 
 ### Javascript
-- JavaScript: The Good Parts - Douglas Crockford
-- [Learning JavaScript Design Patterns]- Addy Osmani
-- Programming JavaScript Applications - Eric Elliott
-- [If Hemingway wrote Javascript] - Angus Croll
+- JavaScript: The Good Parts- Douglas Crockford
+- Learning JavaScript Design Patterns- Addy Osmani
+- Programming JavaScript Applications- Eric Elliott
+- If Hemingway wrote Javascript- Angus Croll
 - Up and Going Javascript - Kyle Simpson
-- [Principles of Object-Oriented Javascript]- Nicolas Zakas
+- Principles of Object-Oriented Javascript- Nicolas Zakas
 - [Eloquent Javascript](http://eloquentjavascript.net/)-Marijn Haverbeke
 
 ### Object Oriented Design
-- [Design Patterns: Elements of Reusable Object-Oriented Software])- aka the "Gang Of Four" book, or GOF
+- Design Patterns: Elements of Reusable Object-Oriented Software- aka the "Gang Of Four" book, or GOF
 - Practical Object-Oriented Design in Ruby- Sandi Metz
 - Growing Object-Oriented Software Guided by Tests- Steve Freeman and Nat Pryce
-- [Design Patterns Explained Simply]- Alexander Shvets
+- Design Patterns Explained Simply- Alexander Shvets
+
+### Python
+- [Digital Ocean- How to Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)- A free e-book created for beginners learning to code in Python.
 
 ### UX/Design
 - Don't Make Me Think- Steve Krug
@@ -117,6 +121,8 @@
 - [Hacker Newsletter](http://www.hackernewsletter.com) Curated by hand, delivered weekly.
 ---
 
+## Common Plugins/Packages to solve difficult problems
+
 ### Javascript
 
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times
@@ -143,9 +149,6 @@ and people learning to code.
 - [Front End Happy Hour](http://frontendhappyhour.com)- A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
 - [JavaScript Jabber](https://devchat.tv/js-jabber)- A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Syntax](https://syntax.fm)- A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
-
-### Python
-- [Digital Ocean- How to Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)- A free e-book created for beginners learning to code in Python.
 
 ---
 
