@@ -16,6 +16,8 @@
 - [Popular Tools](#popular-tools)
 - [Social](#social)
 
+___
+
 ## Tutorials
 - [Wes Bos Javascript 30](https://javascript30.com/)- Free vanilla Javascript course covering the basics of Javascript.
 - [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
