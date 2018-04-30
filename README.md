@@ -169,6 +169,7 @@ and people learning to code.
 - [TinyPNG](https://tinypng.com/)- Advanced lossy compression for PNG images
 - [JS Object Explorer](https://sdras.github.io/object-explorer/)- A tool to help you find the object method you need without digging through the docs
 - [Keycode Info](http://keycode.info/)- A good reference app built by Wes Bos to tell you what keystroke number you need
+- [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool)- A great way to test urls to see if your data and markup are being rendered correctly
 
 ---
 
