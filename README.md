@@ -170,6 +170,8 @@ and people learning to code.
 - [JS Object Explorer](https://sdras.github.io/object-explorer/)- A tool to help you find the object method you need without digging through the docs
 - [Keycode Info](http://keycode.info/)- A good reference app built by Wes Bos to tell you what keystroke number you need
 - [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool)- A great way to test urls to see if your data and markup are being rendered correctly
+- [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)- A curated collection of useful CSS snippets you can understand in 30 seconds or less.
+- [Devdocs](https://devdocs.io)- A compendium of the docs from major tech tools. Cuts down on tabs!
 
 ---
 
