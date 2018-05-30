@@ -172,6 +172,7 @@ and people learning to code.
 - [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool)- A great way to test urls to see if your data and markup are being rendered correctly
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)- A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [Devdocs](https://devdocs.io)- A compendium of the docs from major tech tools. Cuts down on tabs!
+- [Command Line Reference](https://ss64.com/)- A list of all of the commands you can use in Bash, macOS, CMD, Powershell, Access, VB Script, Oracle, SQL Server, ASCII, Convert MB/BG, Forum, and Passwords.
 
 ---
 
