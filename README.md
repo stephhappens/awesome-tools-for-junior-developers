@@ -178,6 +178,7 @@ and people learning to code.
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)- A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [Devdocs](https://devdocs.io)- A compendium of the docs from major tech tools. Cuts down on tabs!
 - [Command Line Reference](https://ss64.com/)- A list of all of the commands you can use in Bash, macOS, CMD, Powershell, Access, VB Script, Oracle, SQL Server, ASCII, Convert MB/BG, Forum, and Passwords.
+- [Postman](https://www.getpostman.com/)- Allows developers to doucment, design, build, mock and test API's from local machine
 
 ---
 
