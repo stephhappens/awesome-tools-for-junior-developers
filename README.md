@@ -122,6 +122,7 @@ ___
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)  A collection of tips and resources for design and front-end development.
 - [Hacker Newsletter](http://www.hackernewsletter.com) Curated by hand, delivered weekly.
 - [CSS Tricks](https://css-tricks.com/) - Hand-written newsletter of best articles and ideas from around the web sent every week.
+- [Hey Designer](https://heydesigner.com/) - Daily or Weekly curated design knowledge newsletter.
 ---
 
 ## Common Plugins/Packages to solve difficult problems
