@@ -21,14 +21,17 @@ ___
 ## Tutorials
 - [Wes Bos Javascript 30](https://javascript30.com/)- Free vanilla Javascript course covering the basics of Javascript.
 - [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)- Tutorials that cover a variety of topics, e.g. web design, algorithms, data visualization etc.
 - [Linkedin Learning](www.linkedin.com/learning)- A library of courses on a full range of a variety of topics. This was Lynda before.
 - [The Bash Guide](http://guide.bash.academy)- Very good guide for learning the Bash Shell.
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)- For those wanting to learn git with a solid foundation.
+- [CSS Diner](https://flukeout.github.io/)- A game to learn and practice CSS selectors.
 - [CSS Grid Garden](http://cssgridgarden.com/)- Easy game to learn CSS Grid.
+- [Flexbox Froggy](https://flexboxfroggy.com/)- A game to learn CSS flexbox.
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015)- Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989)- Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/)-Advanced JS tutorial
-- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- An online course to help bring CS into Highschools. 
+- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- An online course to help bring CS into Highschools.
 
 ---
 
@@ -46,14 +49,14 @@ ___
 - [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 - [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
 - [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
-- [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/)- Why App Speed Matters, Revenue 
+- [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/)- Why App Speed Matters, Revenue
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)- Article for knowing what our level as a programmer is.
 - [16 Javascript Concepts Every Programmer Should Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 
 ---
 
 ## Blogs
-- [The Practical Dev](https://dev.to/)- A collection of posts on life as a programmer, technical posts etc. 
+- [The Practical Dev](https://dev.to/)- A collection of posts on life as a programmer, technical posts etc.
 - [A List Apart: For People Who Make Websites](http://alistapart.com/)-One of the most popular and influential web design blogs.
 - [Web Designer Depot — Web Design Blog](http://www.webdesignerdepot.com/)- WebDesigner Depot provides great posts about web design. Definitely one of the biggest blogs about web design and an excellent resource to keep handy.
 
@@ -65,7 +68,7 @@ ___
 - The Organized Mind - Daniel J Levitin
 
 ### Computer Science
-- Computer Science Distilled - Wladston Ferriera 
+- Computer Science Distilled - Wladston Ferriera
 
 ### General
 - Refactoring- Martin Fowler
@@ -144,7 +147,7 @@ ___
 - [OAuth 2.0 Server](https://oauth2.thephpleague.com/) - Makes implementing a standards compliant OAuth 2.0 server trivial
 
 ## Podcasts
-- [Code Newbie](http://www.codenewbie.org/)-The most supportive community of programmers 
+- [Code Newbie](http://www.codenewbie.org/)-The most supportive community of programmers
 and people learning to code.
 - [The Laravel Podcast](http://www.laravelpodcast.com/)- The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by Matt Stauffer and regular guests include Taylor Otwell (the creator of Laravel) and Jeffrey Way (the creator of Laracasts).
 - [The PHP Roundtable](https://www.phproundtable.com/)- The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about. The podcast is broadcast live on YouTube from a Google Hangout On-Air.
@@ -159,7 +162,7 @@ and people learning to code.
 
 ---
 
-## Popular Tools 
+## Popular Tools
 - [regex101](https://regex101.com)- Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.
 - [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/)- Automatically inline your email’s CSS
 - [NTH-Test](http://nth-test.com/)- nth-child and nth-of-type Tester
@@ -192,7 +195,7 @@ and people learning to code.
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos)- Interviews and talks of world's best technical writers.
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos)- Web dev tutorials
 
-### Twitter 
+### Twitter
 - [@thepracticaldev](https://twitter.com/ThePracticalDev)- Blog account with a weekly Twitter chat
 - [@iamdeveloper](https://twitter.com/iamdevloper)- Humor account about life as a developer
 - [@aneventapart](https://twitter.com/aneventapart)
