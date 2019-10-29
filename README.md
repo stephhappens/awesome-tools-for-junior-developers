@@ -29,7 +29,7 @@ ___
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989)- Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/)-Advanced JS tutorial
 - [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- An online course to help bring CS into Highschools. 
-
+- [Fullstack Javascript Guide](https://fullstackopen.com/en/) - A complete dive into client and serverside javascript. Even with graphql, testing and state management.
 ---
 
 ## Articles
