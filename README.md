@@ -21,7 +21,7 @@ ___
 ## Tutorials
 - [Wes Bos Javascript 30](https://javascript30.com/)- Free vanilla Javascript course covering the basics of Javascript.
 - [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
-- [Lynda](lynda.com)- A library of courses on a full range of a variety of topics. Free with a public library membership.
+- [Linkedin Learning](www.linkedin.com/learning)- A library of courses on a full range of a variety of topics. This was Lynda before.
 - [The Bash Guide](http://guide.bash.academy)- Very good guide for learning the Bash Shell.
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)- For those wanting to learn git with a solid foundation.
 - [CSS Grid Garden](http://cssgridgarden.com/)- Easy game to learn CSS Grid.
@@ -77,6 +77,7 @@ ___
 - Clean Code: A Handbook of Agile Software Craftsmanship- Robert C Martin
 - Cracking the Coding Interview- Gayle Laakmann
 - 2018 Front-End Developer Handbook(https://frontendmasters.com/books/front-end-handbook/2018/)- Cody Lindley
+- DevOps for Dummies- Emily Freeman
 
 ### Javascript
 - JavaScript: The Good Parts- Douglas Crockford
@@ -95,6 +96,7 @@ ___
 
 ### Python
 - [Digital Ocean- How to Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)- A free e-book created for beginners learning to code in Python.
+- Python All-in-One for Dummies- John Shovic
 
 ### UX/Design
 - Don't Make Me Think- Steve Krug
@@ -108,6 +110,7 @@ ___
 - [Hacker News](https://news.ycombinator.com/)
 - [Wired](https://www.wired.com/)
 - [Reddit WebDev](https://www.reddit.com/r/webdev/)
+
 
 ---
 
