@@ -97,6 +97,7 @@ ___
 ### Python
 - [Digital Ocean- How to Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)- A free e-book created for beginners learning to code in Python.
 - Python All-in-One for Dummies- John Shovic
+- [How to Think Like a Computer Scientist: Interactive Book](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - A free & interactive version of the book with exercises & quizzes to enhance your understanding of Python.
 
 ### UX/Design
 - Don't Make Me Think- Steve Krug
@@ -156,6 +157,7 @@ and people learning to code.
 - [Front End Happy Hour](http://frontendhappyhour.com)- A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
 - [JavaScript Jabber](https://devchat.tv/js-jabber)- A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Syntax](https://syntax.fm)- A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
+- [Software Engineering Daily](https://softwareengineeringdaily.com/) A podcast that covers all the different aspects of software engineering including infrastructure, business models, libraries, practises, etc.
 
 ---
 
