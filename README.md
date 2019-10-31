@@ -110,6 +110,8 @@ ___
 - [Hacker News](https://news.ycombinator.com/)
 - [Wired](https://www.wired.com/)
 - [Reddit WebDev](https://www.reddit.com/r/webdev/)
+- [Ars Technica](https://arstechnica.com/)
+- [The Next Web](https://thenextweb.com/)
 
 
 ---
