@@ -19,8 +19,8 @@
 ___
 
 ## Tutorials
-- [Wes Bos Javascript 30](https://javascript30.com/)- Free vanilla Javascript course covering the basics of Javascript.
-- [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
+- [Wes Bos Javascript 30](https://javascript30.com/)- Free vanilla JavaScript course covering the basics of JavaScript.
+- [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and JavaScript.
 - [Linkedin Learning](www.linkedin.com/learning)- A library of courses on a full range of a variety of topics. This was Lynda before.
 - [The Bash Guide](http://guide.bash.academy)- Very good guide for learning the Bash Shell.
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)- For those wanting to learn git with a solid foundation.
@@ -48,7 +48,7 @@ ___
 - [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/)- Why App Speed Matters, Revenue 
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)- Article for knowing what our level as a programmer is.
-- [16 Javascript Concepts Every Programmer Should Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+- [16 JavaScript Concepts Every Programmer Should Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 
 ---
 
@@ -79,14 +79,14 @@ ___
 - 2018 Front-End Developer Handbook(https://frontendmasters.com/books/front-end-handbook/2018/)- Cody Lindley
 - DevOps for Dummies- Emily Freeman
 
-### Javascript
-- JavaScript: The Good Parts- Douglas Crockford
-- Learning JavaScript Design Patterns- Addy Osmani
-- Programming JavaScript Applications- Eric Elliott
-- If Hemingway wrote Javascript- Angus Croll
-- Up and Going Javascript - Kyle Simpson
-- Principles of Object-Oriented Javascript- Nicolas Zakas
-- [Eloquent Javascript](http://eloquentjavascript.net/)-Marijn Haverbeke
+### JavaScript
+- JavaScript: The Good Parts - Douglas Crockford
+- Learning JavaScript Design Patterns - Addy Osmani
+- Programming JavaScript Applications - Eric Elliott
+- If Hemingway wrote JavaScript - Angus Croll
+- Up and Going JavaScript - Kyle Simpson
+- Principles of Object-Oriented JavaScript - Nicolas Zakas
+- [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
 
 ### Object Oriented Design
 - Design Patterns: Elements of Reusable Object-Oriented Software- aka the "Gang Of Four" book, or GOF
@@ -130,7 +130,7 @@ ___
 
 ## Common Plugins/Packages to solve difficult problems
 
-### Javascript
+### JavaScript
 
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times
 - [Swiper](http://idangero.us/swiper) - Modern mobile touch slider with hardware accelerated transitions and amazing native behavior
@@ -170,7 +170,7 @@ and people learning to code.
 - [CSS Triggers](http://csstriggers.com/)- An invaluable reference on how CSS affects performance
 - [Pesticide](http://pesticide.io/)- Chrome Extension for CSS layout debugging
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)- Analyzes website and suggest ways to make it load faster
-- [Helium](https://github.com/geuis/helium-css)- Javascript tool to scan your site and show unused CSS
+- [Helium](https://github.com/geuis/helium-css)- JavaScript tool to scan your site and show unused CSS
 - [TinyPNG](https://tinypng.com/)- Advanced lossy compression for PNG images
 - [JS Object Explorer](https://sdras.github.io/object-explorer/)- A tool to help you find the object method you need without digging through the docs
 - [Keycode Info](http://keycode.info/)- A good reference app built by Wes Bos to tell you what keystroke number you need
@@ -194,8 +194,7 @@ and people learning to code.
 
 ### Twitter 
 - [@thepracticaldev](https://twitter.com/ThePracticalDev)- Blog account with a weekly Twitter chat
-- [@iamdeveloper](https://twitter.com/iamdevloper)- Humor account about life as a developer
-- [@aneventapart](https://twitter.com/aneventapart)
+- [@iamdevloper](https://twitter.com/iamdevloper)- Humor account about life as a developer
 - [@chromedevelopers](https://twitter.com/ChromiumDev)- Account for Chrome Developers
 - [@chromedevtools](https://twitter.com/ChromeDevTools)- Twitter account for Chrome Dev Tools. They frequently release videos with debugging tips and updates on the new releases.
 ___
