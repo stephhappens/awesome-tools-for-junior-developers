@@ -1,4 +1,5 @@
 # Awesome list of tools you might need on your path to senior developer-dom
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of popular tools, tips and tricks for aspiring developers.
@@ -6,6 +7,7 @@
 > To add to the repo simply grab the name, link and a short searchable description of your favorites. Try to keep it to high level products you have personally tried and would recommend to your friends and coworkers. Also tools that you wish you knew about when you were starting as a junior developer are welcomed!
 
 # Index
+
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Blogs](#blogs)
@@ -19,6 +21,7 @@
 ___
 
 ## Tutorials
+
 - [Wes Bos Javascript 30](https://javascript30.com/) - Free vanilla JavaScript course covering the basics of JavaScript.
 - [Egghead.io](https://egghead.io/) - A Mix of free and paid courses for Front End Frameworks and JavaScript.
 - [Linkedin Learning](www.linkedin.com/learning) - A library of courses on a full range of a variety of topics. This was Lynda before.
@@ -33,6 +36,7 @@ ___
 ---
 
 ## Articles
+
 - [Design Patterns](https://sourcemaking.com/design_patterns) - Design Patterns explained in detail with examples.
 - [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) - How to become a programmer, or the art of Googling well.
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) - The entire collection of Design Patterns.
@@ -53,6 +57,7 @@ ___
 ---
 
 ## Blogs
+
 - [The Practical Dev](https://dev.to/) - A collection of posts on life as a programmer, technical posts etc. 
 - [A List Apart: For People Who Make Websites](http://alistapart.com/) - One of the most popular and influential web design blogs.
 - [Web Designer Depot — Web Design Blog](http://www.webdesignerdepot.com/) - WebDesigner Depot provides great posts about web design. Definitely one of the biggest blogs about web design and an excellent resource to keep handy.
@@ -60,26 +65,31 @@ ___
 ---
 
 ## Books
+
 ### About the Mind
+
 - Thinking, Fast and Slow - Daniel Kahneman
 - The Organized Mind - Daniel J Levitin
 
 ### Computer Science
+
 - Computer Science Distilled - Wladston Ferriera 
 
 ### General
+
 - Refactoring - Martin Fowler
 - Zero Bugs and Program Faster - Kate Thompson
 - The Mythical Man Month - Fred Brooks
-- [Pragmatic Programmer] - Andy Hunt and Dave Thomas
+- Pragmatic Programmer - Andy Hunt and Dave Thomas
 - Extreme Programming Explained - Kent Beck
 - Introduction to Algorithms - Thomas H Cormen
 - Clean Code: A Handbook of Agile Software Craftsmanship - Robert C Martin
 - Cracking the Coding Interview - Gayle Laakmann
-- 2018 Front-End Developer Handbook(https://frontendmasters.com/books/front-end-handbook/2018/) - Cody Lindley
+- [2018 Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) - Cody Lindley
 - DevOps for Dummies - Emily Freeman
 
 ### JavaScript
+
 - JavaScript: The Good Parts - Douglas Crockford
 - Learning JavaScript Design Patterns - Addy Osmani
 - Programming JavaScript Applications - Eric Elliott
@@ -89,16 +99,19 @@ ___
 - [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
 
 ### Object Oriented Design
+
 - Design Patterns: Elements of Reusable Object-Oriented Software- aka the "Gang Of Four" book, or GOF
 - Practical Object-Oriented Design in Ruby - Sandi Metz
 - Growing Object-Oriented Software Guided by Tests - Steve Freeman and Nat Pryce
 - Design Patterns Explained Simply - Alexander Shvets
 
 ### Python
+
 - [Digital Ocean- How to Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python) - A free e-book created for beginners learning to code in Python.
 - Python All-in-One for Dummies- John Shovic
 
 ### UX/Design
+
 - Don't Make Me Think - Steve Krug
 - Lessons in Typography - Jim Krause
 - User Experience Revolution - Paul Boag
@@ -106,15 +119,16 @@ ___
 ---
 
 ## News
+
 - [Tech Crunch](https://techcrunch.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Wired](https://www.wired.com/)
 - [Reddit WebDev](https://www.reddit.com/r/webdev/)
 
-
 ---
 
 ## Newsletters
+
 - [JavaScript Weekly](http://javascriptweekly.com/) - Weekly newsletter with only JS News
 - [The UI Animation Newsletter](http://valhead.com/newsletter/) - Newsletter covering topics on UI Animations
 - [Web Tools Weekly](http://webtoolsweekly.com/)- Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
@@ -137,6 +151,7 @@ ___
 - [Waypoints](http://imakewebthings.com/waypoints/) - Trigger a function when you scroll to an element
 
 ### PHP
+
 - [Composer](https://getcomposer.org) - PHP Package Manager
 - [PHPUnit](http://phpunit.de) - Defacto unit test suite for PHP
 - [Chronos](https://github.com/cakephp/chronos) - Maintained fork of Carbon
@@ -144,6 +159,7 @@ ___
 - [OAuth 2.0 Server](https://oauth2.thephpleague.com/) - Makes implementing a standards compliant OAuth 2.0 server trivial
 
 ## Podcasts
+
 - [Code Newbie](http://www.codenewbie.org/) - The most supportive community of programmers 
 and people learning to code.
 - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by Matt Stauffer and regular guests include Taylor Otwell (the creator of Laravel) and Jeffrey Way (the creator of Laracasts).
@@ -159,7 +175,8 @@ and people learning to code.
 
 ---
 
-## Popular Tools 
+## Popular Tools
+
 - [regex101](https://regex101.com) - Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.
 - [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/) - Automatically inline your email’s CSS
 - [NTH-Test](http://nth-test.com/) - nth-child and nth-of-type Tester
@@ -183,7 +200,9 @@ and people learning to code.
 ---
 
 ## Social
+
 ### YouTube Channels
+
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) - Tutorials, how to's, tips and tricks.
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) - Must watch for every CS student.
 - [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) - For those who like to know how we reached where we are.
@@ -192,7 +211,8 @@ and people learning to code.
 - [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) - Interviews and talks of world's best technical writers.
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) - Web dev tutorials
 
-### Twitter 
+### Twitter
+
 - [@thepracticaldev](https://twitter.com/ThePracticalDev) - Blog account with a weekly Twitter chat
 - [@iamdevloper](https://twitter.com/iamdevloper) - Humor account about life as a developer
 - [@chromedevelopers](https://twitter.com/ChromiumDev) - Account for Chrome Developers
@@ -200,6 +220,7 @@ and people learning to code.
 ___
 
 ### Reddit
+
 - [Reddit Web_design](https://www.reddit.com/r/web_design/) - Upvoting reddit mechanics ensure that anything which rises to the top is essential reading for web designers. It’s very popular, one of the largest subreddits.
 - [/r/design](https://www.reddit.com/r/design) - Design subreddit
 - [/r/usability](https://www.reddit.com/r/usability) - User experience, Interface design, or Human Factors subreddit
