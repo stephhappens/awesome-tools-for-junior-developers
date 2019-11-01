@@ -6,7 +6,7 @@
 
 > To add to the repo simply grab the name, link and a short searchable description of your favorites. Try to keep it to high level products you have personally tried and would recommend to your friends and coworkers. Also tools that you wish you knew about when you were starting as a junior developer are welcomed!
 
-# Index
+## Index
 
 - [Tutorials](#tutorials)
 - [Articles](#articles)
@@ -31,7 +31,7 @@ ___
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/) - Advanced JS tutorial
-- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs) - An online course to help bring CS into Highschools. 
+- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs) - An online course to help bring CS into High schools.
 
 ---
 
@@ -50,7 +50,7 @@ ___
 - [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 - [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
 - [What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
-- [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) - Why App Speed Matters, Revenue 
+- [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) - Why App Speed Matters, Revenue
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) - Article for knowing what our level as a programmer is.
 - [16 JavaScript Concepts Every Programmer Should Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 
@@ -58,7 +58,7 @@ ___
 
 ## Blogs
 
-- [The Practical Dev](https://dev.to/) - A collection of posts on life as a programmer, technical posts etc. 
+- [The Practical Dev](https://dev.to/) - A collection of posts on life as a programmer, technical posts etc.
 - [A List Apart: For People Who Make Websites](http://alistapart.com/) - One of the most popular and influential web design blogs.
 - [Web Designer Depot — Web Design Blog](http://www.webdesignerdepot.com/) - WebDesigner Depot provides great posts about web design. Definitely one of the biggest blogs about web design and an excellent resource to keep handy.
 
@@ -73,7 +73,7 @@ ___
 
 ### Computer Science
 
-- Computer Science Distilled - Wladston Ferriera 
+- Computer Science Distilled - Wladston Ferriera
 
 ### General
 
@@ -140,6 +140,7 @@ ___
 - [Hacker Newsletter](http://www.hackernewsletter.com) - Curated by hand, delivered weekly.
 - [CSS Tricks](https://css-tricks.com/) - Hand-written newsletter of best articles and ideas from around the web sent every week.
 - [Hey Designer](https://heydesigner.com/) - Daily or Weekly curated design knowledge newsletter.
+
 ---
 
 ## Common Plugins/Packages to solve difficult problems
@@ -160,7 +161,7 @@ ___
 
 ## Podcasts
 
-- [Code Newbie](http://www.codenewbie.org/) - The most supportive community of programmers 
+- [Code Newbie](http://www.codenewbie.org/) - The most supportive community of programmers
 and people learning to code.
 - [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by Matt Stauffer and regular guests include Taylor Otwell (the creator of Laravel) and Jeffrey Way (the creator of Laracasts).
 - [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about. The podcast is broadcast live on YouTube from a Google Hangout On-Air.
@@ -217,13 +218,10 @@ and people learning to code.
 - [@iamdevloper](https://twitter.com/iamdevloper) - Humor account about life as a developer
 - [@chromedevelopers](https://twitter.com/ChromiumDev) - Account for Chrome Developers
 - [@chromedevtools](https://twitter.com/ChromeDevTools) - Twitter account for Chrome Dev Tools. They frequently release videos with debugging tips and updates on the new releases.
-___
 
 ### Reddit
 
-- [Reddit Web_design](https://www.reddit.com/r/web_design/) - Upvoting reddit mechanics ensure that anything which rises to the top is essential reading for web designers. It’s very popular, one of the largest subreddits.
+- [Reddit Web_design](https://www.reddit.com/r/web_design/) - Upvoting reddit mechanics ensure that anything which rises to the top is essential reading for web designers. It’s very popular, one of the largest subreddit
 - [/r/design](https://www.reddit.com/r/design) - Design subreddit
 - [/r/usability](https://www.reddit.com/r/usability) - User experience, Interface design, or Human Factors subreddit
 - [/r/userexperience](https://www.reddit.com/r/userexperience) - User experience design subreddit
-
----
