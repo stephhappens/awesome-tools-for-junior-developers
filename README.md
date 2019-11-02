@@ -21,8 +21,7 @@
 ___
 
 ## Tutorials
-
-- [Wes Bos Javascript 30](https://javascript30.com/) - Free vanilla JavaScript course covering the basics of JavaScript.
+- [Wes Bos JavaScript 30](https://javascript30.com/) - Free vanilla JavaScript course covering the basics of JavaScript.
 - [Egghead.io](https://egghead.io/) - A Mix of free and paid courses for Front End Frameworks and JavaScript.
 - [Linkedin Learning](www.linkedin.com/learning) - A library of courses on a full range of a variety of topics. This was Lynda before.
 - [The Bash Guide](http://guide.bash.academy) - Very good guide for learning the Bash Shell.
@@ -32,6 +31,8 @@ ___
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/) - Advanced JS tutorial
 - [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs) - An online course to help bring CS into High schools.
+- [Fullstack JavaScript Guide](https://fullstackopen.com/en/) - A complete dive into client and serverside JavaScript. Even with graphql, testing and state management.
+
 
 ---
 
