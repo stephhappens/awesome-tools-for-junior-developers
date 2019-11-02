@@ -110,6 +110,7 @@ ___
 
 - [Digital Ocean- How to Code in Python](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python) - A free e-book created for beginners learning to code in Python.
 - Python All-in-One for Dummies- John Shovic
+- [How to Think Like a Computer Scientist: Interactive Book](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - A free & interactive version of the book with exercises & quizzes to enhance your understanding of Python.
 
 ### UX/Design
 
@@ -166,16 +167,17 @@ ___
 
 - [Code Newbie](http://www.codenewbie.org/) - The most supportive community of programmers
 and people learning to code.
-- [The Laravel Podcast](http://www.laravelpodcast.com/) - The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by Matt Stauffer and regular guests include Taylor Otwell (the creator of Laravel) and Jeffrey Way (the creator of Laracasts).
-- [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about. The podcast is broadcast live on YouTube from a Google Hangout On-Air.
-- [The Web Platform Podcast](https://thewebplatform.libsyn.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
-- [NodeUp](http://nodeup.com/) - Fairly consistent podcast covering all things NodeJS
-- [The Craft CMS Podcast](http://craftpodcast.com/) - Weekly podcast covering all things Craft!
-- [Coding Blocks](http://www.codingblocks.net) - A podcast covering topics such as best programming practices, design patterns, coding for performance, object oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
-- [Developer On Fire](http://developeronfire.com/episodes) - A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
-- [Front End Happy Hour](http://frontendhappyhour.com) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
-- [JavaScript Jabber](https://devchat.tv/js-jabber) - A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
-- [Syntax](https://syntax.fm) - A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
+- [The Laravel Podcast](http://www.laravelpodcast.com/)- The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by Matt Stauffer and regular guests include Taylor Otwell (the creator of Laravel) and Jeffrey Way (the creator of Laracasts).
+- [The PHP Roundtable](https://www.phproundtable.com/)- The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about. The podcast is broadcast live on YouTube from a Google Hangout On-Air.
+- [The Web Platform Podcast](https://thewebplatform.libsyn.com/)- A weekly show that dives deep into all things web from the developers building the platform today.
+- [NodeUp](http://nodeup.com/)- Fairly consistent podcast covering all things NodeJS
+- [The Craft CMS Podcast](http://craftpodcast.com/)- Weekly podcast covering all things Craft!
+- [Coding Blocks](http://www.codingblocks.net)- A podcast covering topics such as best programming practices, design patterns, coding for performance, object oriented coding, database design and implementation, tips, tricks and a whole lot of other things.
+- [Developer On Fire](http://developeronfire.com/episodes)- A podcast that shares the humanity of developers and tells stories of some of the amazing people in software, hosted by Dave Rael.
+- [Front End Happy Hour](http://frontendhappyhour.com)- A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+- [JavaScript Jabber](https://devchat.tv/js-jabber)- A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
+- [Syntax](https://syntax.fm)- A Tasty Treats Podcast for Web Developers by Wes Bos & Scott Tolinski.
+- [Software Engineering Daily](https://softwareengineeringdaily.com/) A podcast that covers all the different aspects of software engineering including infrastructure, business models, libraries, practises, etc.
 
 ---
 
