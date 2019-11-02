@@ -21,18 +21,30 @@
 ___
 
 ## Tutorials
+
+- [Wes Bos Javascript 30](https://javascript30.com/)- Free vanilla Javascript course covering the basics of Javascript.
+- [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
+- [Linkedin Learning](www.linkedin.com/learning)- A library of courses on a full range of a variety of topics. This was Lynda before.
+- [The Bash Guide](http://guide.bash.academy)- Very good guide for learning the Bash Shell.
+- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)- For those wanting to learn git with a solid foundation.
+- [Object-Oriented JavaScript](https://www.udacity.com/course/ud015)- Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
+- [JavaScript Design Patterns](https://www.udacity.com/course/ud989)- Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
+- [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/)-Advanced JS tutorial
+- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- An online course to help bring CS into Highschools.
 - [Wes Bos JavaScript 30](https://javascript30.com/) - Free vanilla JavaScript course covering the basics of JavaScript.
 - [Egghead.io](https://egghead.io/) - A Mix of free and paid courses for Front End Frameworks and JavaScript.
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)- Tutorials that cover a variety of topics, e.g. web design, algorithms, data visualization etc.
 - [Linkedin Learning](www.linkedin.com/learning) - A library of courses on a full range of a variety of topics. This was Lynda before.
 - [The Bash Guide](http://guide.bash.academy) - Very good guide for learning the Bash Shell.
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) - For those wanting to learn git with a solid foundation.
-- [CSS Grid Garden](http://cssgridgarden.com/) - Easy game to learn CSS Grid.
+- [CSS Diner](https://flukeout.github.io/)- A game to learn and practice CSS selectors.
+- [CSS Grid Garden](http://cssgridgarden.com/)- Easy game to learn CSS Grid.
+- [Flexbox Froggy](https://flexboxfroggy.com/)- A game to learn CSS flexbox.
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
 - [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/) - Advanced JS tutorial
 - [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs) - An online course to help bring CS into High schools.
 - [Fullstack JavaScript Guide](https://fullstackopen.com/en/) - A complete dive into client and serverside JavaScript. Even with graphql, testing and state management.
-
 
 ---
 
@@ -73,7 +85,6 @@ ___
 - The Organized Mind - Daniel J Levitin
 
 ### Computer Science
-
 - Computer Science Distilled - Wladston Ferriera
 
 ### General
@@ -165,8 +176,7 @@ ___
 
 ## Podcasts
 
-- [Code Newbie](http://www.codenewbie.org/) - The most supportive community of programmers
-and people learning to code.
+- [Code Newbie](http://www.codenewbie.org/) - The most supportive community of programmers and people learning to code.
 - [The Laravel Podcast](http://www.laravelpodcast.com/)- The Laravel Podcast brings you Laravel and PHP development news and discussion. The podcast is hosted by Matt Stauffer and regular guests include Taylor Otwell (the creator of Laravel) and Jeffrey Way (the creator of Laracasts).
 - [The PHP Roundtable](https://www.phproundtable.com/)- The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about. The podcast is broadcast live on YouTube from a Google Hangout On-Air.
 - [The Web Platform Podcast](https://thewebplatform.libsyn.com/)- A weekly show that dives deep into all things web from the developers building the platform today.
