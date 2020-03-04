@@ -212,6 +212,7 @@ ___
 - [Devdocs](https://devdocs.io) - A compendium of the docs from major tech tools. Cuts down on tabs!
 - [Command Line Reference](https://ss64.com/) - A list of all of the commands you can use in Bash, macOS, CMD, Powershell, Access, VB Script, Oracle, SQL Server, ASCII, Convert MB/BG, Forum, and Passwords.
 - [Postman](https://www.getpostman.com/) - Allows developers to doucment, design, build, mock and test API's from local machine
+- [Taskade](https://www.taskade.com/) - A real-time organization and collaboration tool for distributed teams. Create task lists, kanban boards, and mind maps, in one unified workspace. Taskade is free to use and cross-platform.
 
 ---
 
