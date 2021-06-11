@@ -66,6 +66,7 @@ ___
 - [Why fast pages are important](https://fly.io/articles/why-fast-pages-are-important/) - Why App Speed Matters, Revenue
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) - Article for knowing what our level as a programmer is.
 - [16 JavaScript Concepts Every Programmer Should Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+- [Four Semesters of Computer Science in six hours](https://github.com/stephhappens/awesome-tools-for-junior-developers.git)- learn what you need to know about computer science quickly in as easy to read article as taught by Brian Holt. Video component on Frontend Masters
 
 ---
 
@@ -86,6 +87,7 @@ ___
 
 ### Computer Science
 - Computer Science Distilled - Wladston Ferriera
+- Cormen's Intro to Algorithms- Thomas. H Cormen
 
 ### General
 
