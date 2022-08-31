@@ -17,6 +17,7 @@
 - [Podcasts](#podcasts)
 - [Popular Tools](#popular-tools)
 - [Social](#social)
+- [Tips](#tips)
 
 ___
 
@@ -41,7 +42,6 @@ ___
 - [CSS Grid Garden](http://cssgridgarden.com/)- Easy game to learn CSS Grid.
 - [Flexbox Froggy](https://flexboxfroggy.com/)- A game to learn CSS flexbox.
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
-- [JavaScript Design Patterns](https://www.udacity.com/course/ud989) - Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/) - Advanced JS tutorial
 - [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs) - An online course to help bring CS into High schools.
 - [Fullstack JavaScript Guide](https://fullstackopen.com/en/) - A complete dive into client and serverside JavaScript. Even with graphql, testing and state management.
@@ -242,3 +242,8 @@ ___
 - [/r/design](https://www.reddit.com/r/design) - Design subreddit
 - [/r/usability](https://www.reddit.com/r/usability) - User experience, Interface design, or Human Factors subreddit
 - [/r/userexperience](https://www.reddit.com/r/userexperience) - User experience design subreddit
+
+## Tips
+
+### Code Editors
+- [VS Code Tips](https://github.com/stephhappens/awesome-tools-for-junior-developers.git)- Write and edit your code quickly using keyboard shortcuts in VS Code
