@@ -22,29 +22,24 @@
 ___
 
 ## Tutorials
+### Free
 
 - [Wes Bos Javascript 30](https://javascript30.com/)- Free vanilla Javascript course covering the basics of Javascript.
-- [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
-- [Linkedin Learning](www.linkedin.com/learning)- A library of courses on a full range of a variety of topics. This was Lynda before.
 - [The Bash Guide](http://guide.bash.academy)- Very good guide for learning the Bash Shell.
 - [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/)- For those wanting to learn git with a solid foundation.
-- [Object-Oriented JavaScript](https://www.udacity.com/course/ud015)- Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
-- [JavaScript Design Patterns](https://www.udacity.com/course/ud989)- Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
-- [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/)-Advanced JS tutorial
-- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- An online course to help bring CS into Highschools.
-- [Wes Bos JavaScript 30](https://javascript30.com/) - Free vanilla JavaScript course covering the basics of JavaScript.
-- [Egghead.io](https://egghead.io/) - A Mix of free and paid courses for Front End Frameworks and JavaScript.
 - [freeCodeCamp](https://www.freecodecamp.org/learn/)- Tutorials that cover a variety of topics, e.g. web design, algorithms, data visualization etc.
-- [Linkedin Learning](www.linkedin.com/learning) - A library of courses on a full range of a variety of topics. This was Lynda before.
-- [The Bash Guide](http://guide.bash.academy) - Very good guide for learning the Bash Shell.
-- [A Hacker's Guide to Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/) - For those wanting to learn git with a solid foundation.
+- [JavaScript Design Patterns](https://www.udacity.com/course/ud989)- Free course to learn the importance of separating concerns when writing JavaScript, gaining hands-on experience along the way
 - [CSS Diner](https://flukeout.github.io/)- A game to learn and practice CSS selectors.
 - [CSS Grid Garden](http://cssgridgarden.com/)- Easy game to learn CSS Grid.
 - [Flexbox Froggy](https://flexboxfroggy.com/)- A game to learn CSS flexbox.
-- [Object-Oriented JavaScript](https://www.udacity.com/course/ud015) - Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
-- [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/) - Advanced JS tutorial
-- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs) - An online course to help bring CS into High schools.
 - [Fullstack JavaScript Guide](https://fullstackopen.com/en/) - A complete dive into client and serverside JavaScript. Even with graphql, testing and state management.
+- [Object-Oriented JavaScript](https://www.udacity.com/course/ud015)- Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
+- [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/) - Advanced JS tutorial
+- [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- Use the curriculum structure to guide your own learning
+### Paid
+
+- [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
+- [Linkedin Learning](www.linkedin.com/learning)- A library of courses on a full range of a variety of topics. This was Lynda before.
 
 ---
 
