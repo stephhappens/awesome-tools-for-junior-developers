@@ -51,7 +51,7 @@ ___
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [A Software Developer’s Reading List](https://stevewedig.com/2014/02/03/software-developers-reading-list/) - Some good books and links in there.
-- [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) - List of some algorithms and data structure with their solutions.
+- [Data structure and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) - List of some algorithms and data structures with their solutions.
 - [Data Structure Map](https://fkcd.ca/b7d.svg)
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
 - [Expectations of a Junior Developer](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
@@ -62,6 +62,7 @@ ___
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) - Article for knowing what our level as a programmer is.
 - [16 JavaScript Concepts Every Programmer Should Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
 - [Four Semesters of Computer Science in six hours](https://github.com/stephhappens/awesome-tools-for-junior-developers.git)- learn what you need to know about computer science quickly in as easy to read article as taught by Brian Holt. Video component on Frontend Masters
+- [Is CSS a programming language](https://css-tricks.com/is-css-a-programming-language/)- Yes, it is. Chris Coyier explains it all.
 
 ---
 
