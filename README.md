@@ -36,6 +36,7 @@ ___
 - [Object-Oriented JavaScript](https://www.udacity.com/course/ud015)- Learn how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries.
 - [JavaScript Advanced Tutorial by HTML Dog](http://htmldog.com/guides/javascript/advanced/) - Advanced JS tutorial
 - [Intro to Computer Science in JavaScript](https://codehs.com/info/curriculum/introjs)- Use the curriculum structure to guide your own learning
+- [Codepip](https://codepip.com/)- A collection of free games to learn coding concepts. Definitely a must try if you love games and code!
 ### Paid
 
 - [Egghead.io](https://egghead.io/)- A Mix of free and paid courses for Front End Frameworks and Javascript.
@@ -243,3 +244,5 @@ ___
 
 ### Code Editors
 - [VS Code Tips](https://github.com/stephhappens/awesome-tools-for-junior-developers.git)- Write and edit your code quickly using keyboard shortcuts in VS Code
+
+### Job Search
