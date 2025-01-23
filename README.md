@@ -192,6 +192,7 @@ ___
 
 ## Popular Tools
 
+- [Otelic.com](https://otelic.com) - Easiest way to have searchable logs & traces + alerts in NodeJS app
 - [regex101](https://regex101.com) - Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript.
 - [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/) - Automatically inline your email’s CSS
 - [NTH-Test](http://nth-test.com/) - nth-child and nth-of-type Tester
