@@ -210,6 +210,7 @@ ___
 - [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [Devdocs](https://devdocs.io) - A compendium of the docs from major tech tools. Cuts down on tabs!
 - [Command Line Reference](https://ss64.com/) - A list of all of the commands you can use in Bash, macOS, CMD, Powershell, Access, VB Script, Oracle, SQL Server, ASCII, Convert MB/BG, Forum, and Passwords.
+- [Toolunify](https://www.toolunify.com/en/) - The ultimate suite of 40+ free online developer & utility tools (JSON Formatter, Base64, QR Codes, Unit Converter & more).
 - [Postman](https://www.getpostman.com/) - Allows developers to doucment, design, build, mock and test API's from local machine
 - [MockAPI](https://mockapi.io/) - use a RESTful test API to setup endpoints, generate custom data and preform operations
 ---
