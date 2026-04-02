@@ -1,4 +1,5 @@
 # Awesome list of tools you might need on your path to senior developer-dom
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
