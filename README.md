@@ -244,5 +244,6 @@ ___
 
 ### Code Editors
 - [VS Code Tips](https://github.com/stephhappens/awesome-tools-for-junior-developers.git)- Write and edit your code quickly using keyboard shortcuts in VS Code
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### Job Search
