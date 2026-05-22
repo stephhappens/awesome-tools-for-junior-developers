@@ -212,6 +212,7 @@ ___
 - [Command Line Reference](https://ss64.com/) - A list of all of the commands you can use in Bash, macOS, CMD, Powershell, Access, VB Script, Oracle, SQL Server, ASCII, Convert MB/BG, Forum, and Passwords.
 - [Postman](https://www.getpostman.com/) - Allows developers to doucment, design, build, mock and test API's from local machine
 - [MockAPI](https://mockapi.io/) - use a RESTful test API to setup endpoints, generate custom data and preform operations
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser utilities: favicon generator, color palette generator, OG image generator, SEO meta tag generator, domain name generator, AI cost calculator, and more. No signup required.
 ---
 
 ## Social
