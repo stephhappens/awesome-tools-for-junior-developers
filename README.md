@@ -246,3 +246,7 @@ ___
 - [VS Code Tips](https://github.com/stephhappens/awesome-tools-for-junior-developers.git)- Write and edit your code quickly using keyboard shortcuts in VS Code
 
 ### Job Search
+
+## Web Utilities
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free, browser-based single-purpose web utilities perfect for junior developers. Domain generator, OG images, favicon creator, color palettes, SEO tools, AI features (runs locally). No signup.
