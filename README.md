@@ -1,5 +1,7 @@
 # Awesome list of tools you might need on your path to senior developer-dom
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of popular tools, tips and tricks for aspiring developers.
