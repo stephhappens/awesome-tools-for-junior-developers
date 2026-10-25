@@ -212,6 +212,7 @@ ___
 - [Command Line Reference](https://ss64.com/) - A list of all of the commands you can use in Bash, macOS, CMD, Powershell, Access, VB Script, Oracle, SQL Server, ASCII, Convert MB/BG, Forum, and Passwords.
 - [Postman](https://www.getpostman.com/) - Allows developers to doucment, design, build, mock and test API's from local machine
 - [MockAPI](https://mockapi.io/) - use a RESTful test API to setup endpoints, generate custom data and preform operations
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 ---
 
 ## Social
