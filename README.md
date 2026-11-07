@@ -204,6 +204,7 @@ ___
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Analyzes website and suggest ways to make it load faster
 - [Helium](https://github.com/geuis/helium-css) - JavaScript tool to scan your site and show unused CSS
 - [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images
+- [KaijuConverter](https://kaijuconverter.com) - Free online file converter for documents, images, audio, video, and data formats with no registration needed
 - [JS Object Explorer](https://sdras.github.io/object-explorer/) - A tool to help you find the object method you need without digging through the docs
 - [Keycode Info](http://keycode.info/) - A good reference app built by Wes Bos to tell you what keystroke number you need
 - [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) - A great way to test urls to see if your data and markup are being rendered correctly
