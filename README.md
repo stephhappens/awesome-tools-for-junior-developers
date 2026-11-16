@@ -1,4 +1,5 @@
 # Awesome list of tools you might need on your path to senior developer-dom
+- [LinkSubmit Demo](https://example.com) - 规则驱动的外链提交自动化工具
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
